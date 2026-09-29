@@ -1,33 +1,28 @@
 # Python Assignments
 
-This repository contains my Python assignments.
+This repository contains my Python programming assignments.
 
-## Topics
+## Topics Covered
 
 ### 1. Python Assignment
 
-Basic Python programs using:
-
-* Variables
-* Input and Output
+* Basic Python programs
+* Variables and data types
+* Input and output
 * If-else
 * Loops
-* Lists
-* Strings
+* Lists and strings
 
 ### 2. NumPy Assignment
 
-Basic programs using NumPy:
-
-* Arrays
+* NumPy arrays
+* Array creation
+* Array indexing
+* Array slicing
 * Array operations
-* Indexing
-* Slicing
 * Matrix operations
 
 ### 3. Python Functions Assignment
-
-Programs using Python functions:
 
 * Creating functions
 * Function arguments
@@ -40,22 +35,18 @@ Programs using Python functions:
 * NumPy
 * VS Code
 
-## How to Run
+## Installation
 
-Install NumPy:
+Install NumPy using:
 
 ```bash
 pip install numpy
 ```
 
-Run a Python program:
-
-```bash
-python filename.py
-```
 Name:Kavinraj.S
 Date:29-09-2026
+```
 
 ## Purpose
 
-These assignments are used to practice basic Python programming, NumPy, and functions.
+The purpose of these assignments is to learn and practice **Python, NumPy, and Python functions**.
